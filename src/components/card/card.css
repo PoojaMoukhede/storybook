@@ -1,0 +1,8 @@
+.Container{
+    width:512px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-shadow: 2px 2px 2px 2px #e9e8e8;
+}

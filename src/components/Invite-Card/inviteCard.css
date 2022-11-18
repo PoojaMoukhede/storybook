@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.invite-container {
+  height: 238px;
+  width: 512px;
+  margin-top: 100px;
+  margin-left: 100px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.main-Container {
+  margin-top: 25px;
+  margin-left: 25px;
+  width: 95px;
+  height: 36px;
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-sizing: border-box;
+  padding-left: 8px;
+  padding-right: 8px;
+  color: white;
+  cursor: pointer;
+  font-weight: 600;
+  border-radius: 5px;
+  margin-bottom: 3px;
+}
+
+.main-Container p {
+  margin: 0;
+}
+
+.popup {
+  margin-left: 25px;
+}

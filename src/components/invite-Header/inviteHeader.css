@@ -1,0 +1,42 @@
+.inviteHeader{
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(238, 236, 236);
+    box-sizing: border-box;
+    padding: 10px;
+}
+.input-field{
+    display: flex;
+}
+.inviteHeader .input-field input{
+    height:30px ;
+    width: 150px;
+    border: none;
+    background-color: rgb(244, 231, 231);
+
+}
+.inviteHeader .input input:focus{
+    outline: none;
+}
+.btn button{
+    height: 40px;
+    width: 60px;
+    padding: 0.5em;
+    border-radius: 5px;
+    border: none;
+    box-sizing: border-box;
+    background-color: white;
+}
+.name-select{
+    display: flex;
+    column-gap: 10px;
+    border: 1px solid white;
+    background-color: white;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding: 5px;
+    align-items: center;
+    margin-right: 5px;
+}
